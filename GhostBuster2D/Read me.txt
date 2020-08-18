@@ -1,0 +1,10 @@
+Project Title: Ghostbuster2D
+Member : 	Aszad Rakin
+	Md. Tamimul Ehsan
+project for CSE 102 L1-T1
+
+Short description:
+A 2D platform game. inspired from Super Mario Bros
+
+Used language:
+C. OpenGL with Igraphics wrapper 
