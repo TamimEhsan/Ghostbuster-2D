@@ -1,0 +1,412 @@
+# depslib dependency file v1.0
+1563612932 source:c:\users\user\desktop\igraphics\imain.cpp
+	"iGraphics.h"
+	<math.h>
+	<stdio.h>
+
+1563087260 c:\users\user\desktop\igraphics\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"glut.h"
+	<time.h>
+	<math.h>
+	"glaux.h"
+
+1563087260 c:\users\user\desktop\igraphics\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1563087260 c:\users\user\desktop\igraphics\opengl\include\glaux.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1563087740 source:c:\users\amim\desktop\igraphics\igraphics project\igraphics\balldemo.cpp
+	"iGraphics.h"
+	"gl.h"
+
+1563087260 c:\users\amim\desktop\igraphics\igraphics project\igraphics\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"glut.h"
+	<time.h>
+	<math.h>
+	"glaux.h"
+
+1563087260 c:\users\amim\desktop\igraphics\igraphics project\igraphics\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1563087260 c:\users\amim\desktop\igraphics\igraphics project\igraphics\opengl\include\glaux.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1563087260 c:\users\amim\desktop\igraphics\igraphics project\igraphics\opengl\include\gl.h
+
+1564681494 source:c:\users\amim\desktop\igraphics\term project\igraphics\balldemo.cpp
+	"iGraphics.h"
+	"gl.h"
+
+1563087260 c:\users\amim\desktop\igraphics\term project\igraphics\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"glut.h"
+	<time.h>
+	<math.h>
+	"glaux.h"
+
+1563087260 c:\users\amim\desktop\igraphics\term project\igraphics\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1563087260 c:\users\amim\desktop\igraphics\term project\igraphics\opengl\include\glaux.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1563087260 c:\users\amim\desktop\igraphics\term project\igraphics\opengl\include\gl.h
+
+1563087260 source:e:\igraphics\term project\igraphics\picturedemo.cpp
+	"iGraphics.h"
+
+1563087260 e:\igraphics\term project\igraphics\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"glut.h"
+	<time.h>
+	<math.h>
+	"glaux.h"
+
+1563087260 e:\igraphics\term project\igraphics\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1563087260 e:\igraphics\term project\igraphics\opengl\include\glaux.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1564933132 source:e:\igraphics\term project\igraphics\rakin.cpp
+	"iGraphics.h"
+	"gl.h"
+
+1563087260 e:\igraphics\term project\igraphics\opengl\include\gl.h
+
+1565114991 source:e:\igraphics\term project\igraphics\rakin2.cpp
+	"iGraphics.h"
+	"gl.h"
+
+1565991988 source:e:\igraphics\term project\igraphics\demo.cpp
+	"iGraphics.h"
+	"gl.h"
+
+1566501169 source:e:\igraphics\term project\igraphics\demo_2.cpp
+	"iGraphics.h"
+	"gl.h"
+
+1567023827 source:e:\igraphics\term project\ghostbuster 23-8-19\igraphics\demo_2.cpp
+	<bits/stdc++.h>
+	"iGraphics.h"
+	"gl.h"
+
+1563087260 e:\igraphics\term project\ghostbuster 23-8-19\igraphics\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"glut.h"
+	<time.h>
+	<math.h>
+	"glaux.h"
+
+1563087260 e:\igraphics\term project\ghostbuster 23-8-19\igraphics\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1563087260 e:\igraphics\term project\ghostbuster 23-8-19\igraphics\opengl\include\glaux.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1563087260 e:\igraphics\term project\ghostbuster 23-8-19\igraphics\opengl\include\gl.h
+
+1567441633 source:e:\igraphics\term project\ghostbuster 23-8-19\igraphics\v2_0.cpp
+	<bits/stdc++.h>
+	<stdio.h>
+	<stdlib.h>
+	"iGraphics.h"
+	"gl.h"
+
+1567707382 source:c:\users\dum b\desktop\ghostbuster 02-9-19\igraphics\v2_0.cpp
+	<stdio.h>
+	<stdlib.h>
+	"iGraphics.h"
+	"gl.h"
+	"declarations.h"
+	"animations.h"
+
+1563087260 c:\users\dum b\desktop\ghostbuster 02-9-19\igraphics\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"glut.h"
+	<time.h>
+	<math.h>
+	"glaux.h"
+
+1563087260 c:\users\dum b\desktop\ghostbuster 02-9-19\igraphics\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1563087260 c:\users\dum b\desktop\ghostbuster 02-9-19\igraphics\opengl\include\glaux.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1563087260 c:\users\dum b\desktop\ghostbuster 02-9-19\igraphics\opengl\include\gl.h
+
+1567707980 c:\users\dum b\desktop\ghostbuster 02-9-19\igraphics\declarations.h
+
+1567708171 c:\users\dum b\desktop\ghostbuster 02-9-19\igraphics\animations.h
+
+1567869409 source:c:\users\dum b\desktop\ghostbuster 06-9-19\igraphics\v2_2.cpp
+	"iGraphics.h"
+	"gl.h"
+	<stdio.h>
+	<stdlib.h>
+	"declarations.h"
+	"animations.h"
+
+1567861560 c:\users\dum b\desktop\ghostbuster 06-9-19\igraphics\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"glut.h"
+	<time.h>
+	<math.h>
+	"glaux.h"
+
+1567861575 c:\users\dum b\desktop\ghostbuster 06-9-19\igraphics\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1567861575 c:\users\dum b\desktop\ghostbuster 06-9-19\igraphics\opengl\include\glaux.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1567861575 c:\users\dum b\desktop\ghostbuster 06-9-19\igraphics\opengl\include\gl.h
+
+1567870159 c:\users\dum b\desktop\ghostbuster 06-9-19\igraphics\declarations.h
+
+1567861553 c:\users\dum b\desktop\ghostbuster 06-9-19\igraphics\animations.h
+
+1567852328 source:d:\ghostbuster 06-9-19\igraphics\v2_2.cpp
+	"iGraphics.h"
+	"gl.h"
+	<stdio.h>
+	<stdlib.h>
+	"declarations.h"
+	"animations.h"
+
+1563087260 d:\ghostbuster 06-9-19\igraphics\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"glut.h"
+	<time.h>
+	<math.h>
+	"glaux.h"
+
+1563087260 d:\ghostbuster 06-9-19\igraphics\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1563087260 d:\ghostbuster 06-9-19\igraphics\opengl\include\glaux.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1563087260 d:\ghostbuster 06-9-19\igraphics\opengl\include\gl.h
+
+1567853590 d:\ghostbuster 06-9-19\igraphics\declarations.h
+
+1567852853 d:\ghostbuster 06-9-19\igraphics\animations.h
+
+1567876126 source:c:\users\dum b\desktop\ghostbuster 07-9-19\igraphics\v2_2.cpp
+	"iGraphics.h"
+	"gl.h"
+	<stdio.h>
+	<stdlib.h>
+	"declarations.h"
+	"animations.h"
+
+1567861560 c:\users\dum b\desktop\ghostbuster 07-9-19\igraphics\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"glut.h"
+	<time.h>
+	<math.h>
+	"glaux.h"
+
+1567861575 c:\users\dum b\desktop\ghostbuster 07-9-19\igraphics\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1567861575 c:\users\dum b\desktop\ghostbuster 07-9-19\igraphics\opengl\include\glaux.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1567861575 c:\users\dum b\desktop\ghostbuster 07-9-19\igraphics\opengl\include\gl.h
+
+1567876759 c:\users\dum b\desktop\ghostbuster 07-9-19\igraphics\declarations.h
+
+1567876686 c:\users\dum b\desktop\ghostbuster 07-9-19\igraphics\animations.h
+
+1567883614 source:e:\igraphics\ghostbuster 07-9-19(2)\ghostbuster 07-9-19\igraphics\v2_3.cpp
+	"iGraphics.h"
+	"gl.h"
+	<stdio.h>
+	<stdlib.h>
+	"declarations.h"
+	"animations.h"
+
+1567879061 e:\igraphics\ghostbuster 07-9-19(2)\ghostbuster 07-9-19\igraphics\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"glut.h"
+	<time.h>
+	<math.h>
+	"glaux.h"
+
+1567879068 e:\igraphics\ghostbuster 07-9-19(2)\ghostbuster 07-9-19\igraphics\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1567879068 e:\igraphics\ghostbuster 07-9-19(2)\ghostbuster 07-9-19\igraphics\opengl\include\glaux.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1567879068 e:\igraphics\ghostbuster 07-9-19(2)\ghostbuster 07-9-19\igraphics\opengl\include\gl.h
+
+1567884255 e:\igraphics\ghostbuster 07-9-19(2)\ghostbuster 07-9-19\igraphics\declarations.h
+
+1567884604 e:\igraphics\ghostbuster 07-9-19(2)\ghostbuster 07-9-19\igraphics\animations.h
+
+1567919981 source:d:\1805012\ghostbuster 08-9-19\igraphics\v2_3.cpp
+	"iGraphics.h"
+	"gl.h"
+	<stdio.h>
+	<stdlib.h>
+	"declarations.h"
+	"animations.h"
+
+1567879062 d:\1805012\ghostbuster 08-9-19\igraphics\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"glut.h"
+	<time.h>
+	<math.h>
+	"glaux.h"
+
+1567879070 d:\1805012\ghostbuster 08-9-19\igraphics\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1567879070 d:\1805012\ghostbuster 08-9-19\igraphics\opengl\include\glaux.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1567879070 d:\1805012\ghostbuster 08-9-19\igraphics\opengl\include\gl.h
+
+1567919975 d:\1805012\ghostbuster 08-9-19\igraphics\declarations.h
+
+1567919548 d:\1805012\ghostbuster 08-9-19\igraphics\animations.h
+
+1567968327 source:c:\users\dum b\desktop\ghostbuster 08-9-19\igraphics\v2_3.cpp
+	"iGraphics.h"
+	"gl.h"
+	<stdio.h>
+	<stdlib.h>
+	"declarations.h"
+	"animations.h"
+
+1567879062 c:\users\dum b\desktop\ghostbuster 08-9-19\igraphics\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"glut.h"
+	<time.h>
+	<math.h>
+	"glaux.h"
+
+1567879070 c:\users\dum b\desktop\ghostbuster 08-9-19\igraphics\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1567879070 c:\users\dum b\desktop\ghostbuster 08-9-19\igraphics\opengl\include\glaux.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1567879070 c:\users\dum b\desktop\ghostbuster 08-9-19\igraphics\opengl\include\gl.h
+
+1567968912 c:\users\dum b\desktop\ghostbuster 08-9-19\igraphics\declarations.h
+
+1567965218 c:\users\dum b\desktop\ghostbuster 08-9-19\igraphics\animations.h
+
+1568211872 source:c:\users\dum b\desktop\ghostbuster 09-9-19\igraphics\v2_3.cpp
+	"iGraphics.h"
+	"gl.h"
+	<stdio.h>
+	<stdlib.h>
+	"declarations.h"
+	"animations.h"
+
+1567879062 c:\users\dum b\desktop\ghostbuster 09-9-19\igraphics\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"glut.h"
+	<time.h>
+	<math.h>
+	"glaux.h"
+
+1567879070 c:\users\dum b\desktop\ghostbuster 09-9-19\igraphics\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1567879070 c:\users\dum b\desktop\ghostbuster 09-9-19\igraphics\opengl\include\glaux.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1567879070 c:\users\dum b\desktop\ghostbuster 09-9-19\igraphics\opengl\include\gl.h
+
+1568220836 c:\users\dum b\desktop\ghostbuster 09-9-19\igraphics\declarations.h
+
+1568213629 c:\users\dum b\desktop\ghostbuster 09-9-19\igraphics\animations.h
+
